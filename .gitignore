@@ -1,6 +1,7 @@
 ### IntelliJ IDEA ###
 out/
 java-start/
+java-start-v20240121/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
